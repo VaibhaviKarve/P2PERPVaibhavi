@@ -352,16 +352,9 @@ namespace P2PLibray.Purchase
         public string FinalOutcomePOCode { get; set; }
         #endregion
 
-        #region vaibhavi
-       // public string RFQCode { get; set; }
-        // public string PRCode { get; set; }
-        //public string FullName { get; set; }
-        //public string Description { get; set; }
+        #region vaibhavi    
         public string AddedDateVK { get; set; }
-
         public int HasUnregisteredVendors { get; set; }
-
-
         #endregion vaibhavi
 
         #region Shubham
